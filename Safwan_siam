@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Who is Safwan Ahammed Siam - A student from Dhaka, SSC 2022, currently studying at Shahid Siraj Sikder Degree College." />
+  <title>Safwan Ahammed Siam</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f7f7f7;
+      color: #333;
+      max-width: 800px;
+      margin: auto;
+      padding: 20px;
+    }
+    h1 {
+      color: #2c3e50;
+    }
+    .section {
+      margin-bottom: 20px;
+      background: #fff;
+      padding: 15px;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+    img.profile {
+      width: 150px;
+      border-radius: 50%;
+      display: block;
+      margin-bottom: 15px;
+    }
+    a {
+      color: #2c3e50;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <h1>Safwan Ahammed Siam</h1>
+  <div class="section" style="text-align: center">
+    <img class="profile" src="https://graph.facebook.com/100076799226429/picture?type=large" alt="Safwan's Profile Picture">
+    <p><strong>Student | Dreamer | Explorer</strong></p>
+  </div>
+  <div class="section">
+    <h2>About Me</h2>
+    <p>Hi, I am Safwan Ahammed Siam. I am currently a student living in Dhaka, Bangladesh. I completed my SSC in 2022 from Char Filiz Joynab High School and College, and now I study at Shahid Siraj Sikder Degree College.</p>
+  </div>
+  <div class="section">
+    <h2>Education</h2>
+    <ul>
+      <li>SSC - Char Filiz Joynab High School and College (2022)</li>
+      <li>HSC - Shahid Siraj Sikder Degree College (Present)</li>
+    </ul>
+  </div>
+  <div class="section">
+    <h2>My Interests</h2>
+    <p>I love playing cricket, writing, and traveling to new places.</p>
+  </div>
+  <div class="section">
+    <h2>Dream & Goal</h2>
+    <p>My dream is to grow as a confident individual who can inspire others and achieve something meaningful in life. (You can update this with a specific dream later.)</p>
+  </div>
+  <div class="section">
+    <h2>Location</h2>
+    <p>Dhaka, Bangladesh</p>
+  </div>
+  <div class="section">
+    <h2>Contact</h2>
+    <p>
+      Facebook: <a href="https://www.facebook.com/share/1Dx2UxVdb1/" target="_blank">Click here</a><br>
+      Instagram: <a href="https://www.instagram.com/safwan_ahammed_siam" target="_blank">@safwan_ahammed_siam</a><br>
+      Email: <a href="mailto:siamahammed774@gmail.com">siamahammed774@gmail.com</a>
+    </p>
+  </div>
+</body>
+</html>
